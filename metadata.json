@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Perfect - Multi-Tenant Event & Ticket Reservation System",
+  "description": "Multi-Tenant Event & Ticket Reservation platform with RBAC (Admin, Organizer, Attendee), 10-minute temporary seat holds, race-condition-safe atomic reservation engine, async payment simulation, real-time analytics, ER diagram, and Postman collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
